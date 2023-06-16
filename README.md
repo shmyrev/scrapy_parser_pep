@@ -12,7 +12,7 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-https://github.com/BuriloT/scrapy_parser_pep.git
+https://github.com/shmyrev/scrapy_parser_pep.git
 ```
 
 ```
